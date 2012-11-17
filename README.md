@@ -19,6 +19,7 @@ Things I would like to fix:
 
 ## Usage
 
+* Put `index.html`, `main.js`, and `timerpage.css` in the same directory
 * Open index.html
 * Enter a time like "15:33"
 * Click Start
