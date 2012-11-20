@@ -19,6 +19,10 @@ Things I would like to fix:
 
 ## Usage
 
+* Visit [http://candera.github.com/timerpage](http://candera.github.com/timerpage)
+
+**OR**
+
 * Put `index.html`, `main.js`, and `timerpage.css` in the same directory
 * Open index.html
 * Enter a time like "15:33"
