@@ -1,0 +1,37 @@
+
+body {
+}
+
+body.more-than-ten {
+}
+
+body.ten-or-less {
+    background: green;
+    color: white;
+}
+
+
+
+body.alerting.up {
+    background: white;
+    color: black;
+}
+
+body.five-or-less {
+    background: yellow;
+    color: black;
+}
+
+
+body.one-or-less {
+    background: red;
+    color: white;
+}
+
+#time {
+    font-size: 3000%;
+    text-align: center;
+}
+
+#start {
+}
